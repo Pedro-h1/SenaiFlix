@@ -1,4 +1,4 @@
-<div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=E50914&text=🎬+SenaiFlix&fontColor=ffffff&fontSize=38&fontAlignY=38&desc=📽️+Repositório+para+atividade+do+curso+de+JavaScript&descAlignY=58&descSize=16&animation=fadeIn" width="100%"/></div>
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:A25CED,100:5649ED&text=🎬+SenaiFlix&fontColor=ffffff&fontSize=38&fontAlignY=38&desc=📽️+Repositório+para+atividade+do+curso+de+JavaScript&descAlignY=58&descSize=16&animation=fadeIn" width="100%"/></div>
 
 
 <div align="center">
@@ -16,4 +16,4 @@
 <div align="center"><p>🎥 Aplicar conhecimentos de desenvolvimento web na criação de uma experiência relacionada a filmes e conteúdos audiovisuais.</p></div>
 
 
-<div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=E50914&animation=fadeIn" width="100%" /></div>
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:5649ED,100:A25CED&animation=fadeIn" width="100%" /></div>
